@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color:white;
+    text-align:center;
+}
+
+h1 {
+    color: rgba(172, 232, 120, 0.587);
+
+}
+
+
+p {
+    font-size: 16px;
+    color:aqua
+    
+    
+}
+.image{
+    width:25%;
+    aspect-ratio:4/3;
+    object-fit:contain;
+}
+
+
+
+a {
+    color: violet;
+    text-decoration: none;
+}
+
+button {
+    background-color: pink;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    
+}
+
+button:hover {
+    background-color:red;
+    
+}
